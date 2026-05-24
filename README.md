@@ -1,7 +1,8 @@
-<img width="736" height="414" alt="ezgif-27efb957b3hh8a7d22" src="https://github.com/user-attachments/assets/7bb9c8f9-5cda-4654-b34b-911d7565dc0a" />
+<img width="100%" alt="ezgif-27efb957b3hh8a7d22" src="https://github.com/user-attachments/assets/7bb9c8f9-5cda-4654-b34b-911d7565dc0a" />
+
 <div align="center">
   
-  <h1>Hi, I'm Ronin Khan 👋</h1>
+  <h1>Hi, I'm Tauqeer Khan 👋</h1>
   <h3>Full-Stack Developer | B.Tech Computer Science</h3>
 
   <p>
@@ -44,20 +45,3 @@ A high-contrast, minimalist landing page tailored for the fitness niche, reflect
 
 ---
 
-## 📈 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tauqeer7Khan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="736" height="414" alt="Fitness Custom GIF" src="https://github.com/user-attachments/assets/74626ae1-0a2c-4a0a-8011-31236002343a" />
-</div>
