@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h1>Hi, I'm Tauqeer Khan 👋</h1>
+  <h1>Hey, I'm Tauqeer Khan 👋</h1>
   <h3>Full-Stack Developer | B.Tech Computer Science</h3>
 
   <p>
